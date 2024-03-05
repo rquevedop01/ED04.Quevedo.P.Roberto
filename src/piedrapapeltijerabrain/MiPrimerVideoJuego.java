@@ -113,6 +113,7 @@ public class MiPrimerVideoJuego {
     }
 
     /**
+     * rquevedop01
     * Método para mostrar la representación visual de la opción "tijera".
     */
     public static void tijera() {
